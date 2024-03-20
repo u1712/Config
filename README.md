@@ -1,2 +1,0 @@
-# Config
-Neovim config.
